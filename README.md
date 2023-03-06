@@ -1,0 +1,2 @@
+# wordpress
+Wordpress after install
